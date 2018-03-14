@@ -517,6 +517,7 @@ unprofessional behavior.
 * Yoo Young Lee
 * Stephanie Willen Brown
 * Maggie Schreiner
+Massachusetts Black Librarians Network (MBLN)
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
